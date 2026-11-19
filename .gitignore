@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets and environments
+.env
+.venv/
+venv/
+
+# Generated RAG index
+data/persian_rag_index/
+
+# Runtime files
+run/*.log
+run/*.pid
+
+# IDE settings
+.idea/
+.vscode/
