@@ -1,0 +1,5 @@
+{
+    "provider": "SentenceTransformers",
+    "model": "intfloat/multilingual-e5-small",
+    "url": ""
+}
